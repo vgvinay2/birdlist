@@ -1,6 +1,6 @@
 About Application
 =======
-This application is built in Sinatra ruby and Mongodb.It is croud operation for bird model.
+This application is built in Sinatra ruby and Mongodb.It is crud operations for bird model.
 
 For Running Application Required Steps
 ============
